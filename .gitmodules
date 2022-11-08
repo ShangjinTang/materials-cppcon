@@ -1,0 +1,39 @@
+[submodule "2014"]
+	path = 2014
+	shallow = true
+	url = https://github.com/CppCon/CppCon2014.git
+[submodule "2015"]
+	path = 2015
+	shallow = true
+	url = https://github.com/CppCon/CppCon2015.git
+[submodule "2016"]
+	path = 2016
+	shallow = true
+	url = https://github.com/CppCon/CppCon2016.git
+[submodule "2017"]
+	path = 2017
+	shallow = true
+	url = https://github.com/CppCon/CppCon2017.git
+[submodule "2018"]
+	path = 2018
+	shallow = true
+	url = https://github.com/CppCon/CppCon2018.git
+[submodule "2019"]
+	path = 2019
+	shallow = true
+	url = https://github.com/CppCon/CppCon2019.git
+[submodule "2020"]
+	shallow = true
+	path = 2020
+	url = https://github.com/CppCon/CppCon2020.git
+[submodule "2021"]
+	path = 2021
+	shallow = true
+	url = https://github.com/CppCon/CppCon2021.git
+[submodule "2022"]
+	path = 2022
+	shallow = true
+	url = https://github.com/CppCon/CppCon2022.git
+[submodule "2023"]
+	path = 2023
+	url = https://github.com/CppCon/CppCon2023
